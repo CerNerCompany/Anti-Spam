@@ -30,14 +30,6 @@ After installing the dependencies, lets install the bot:
 ```bash
  git clone https://github.com/CerNerCompany/Anti-Spam
  cd Anti-*
- chmod +x C
- ./C install
- ./C config
- ./C login-Cli # Will ask you for a phone number & confirmation code.
- ./C login-Api
- ./C Change-Login #Changed Login
- ./C start
- ./C auto-run
 ```
 Developer:
 [Amir Bagheri](https://github.com/Codelua)
